@@ -1,12 +1,10 @@
 # 💫 About Me:
-🚀 I’m a passionate **Full-Stack Developer** specializing in **Django**, **React**, and **REST APIs**, with a focus on building secure, scalable, and high-performance applications.  
-💻 Skilled in both **backend** and **frontend** development, I love solving complex problems and delivering clean, efficient solutions.  
-🤝 Open to **collaborations**, **freelance projects**, and opportunities to contribute to impactful products.  
+🚀 Passionate **Full-Stack Developer** with expertise in **Django**, **React**, and **REST APIs**, dedicated to building secure, scalable, and high-performance applications.  
+💻 Skilled in designing and developing **end-to-end solutions**, from responsive frontends to robust backends, with a strong focus on code quality and best practices.  
+🤝 Open to **collaborations**, **freelance projects**, and opportunities to work on impactful products with global reach.  
 
-🎓 Completed **B.Sc. in IT coursework** and an intensive **1-Year Advanced Python Full-Stack Development** program at IT Vedant.  
-📍 Currently working as a **Freelance Developer**, delivering modern web solutions for clients.
-
-> 💡 *Fun Fact:* The first computer bug was an actual moth found in Harvard University’s Mark II computer in 1947, causing a malfunction. The engineers taped it into their logbook as the first “bug” ever recorded.
+🎓 Currently pursuing **B.Sc. in IT** (expected 2026) and completed an intensive **1-Year Advanced Python Full-Stack Development** program at *IT Vedant*.  
+📍 Working as a **Freelance Developer**, delivering modern web solutions and continuously exploring new technologies to stay ahead in the tech world.
 
 ---
 
