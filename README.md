@@ -1,10 +1,10 @@
 # 💫 About Me:
 🚀 Passionate **Full-Stack Developer** with expertise in **Django**, **React**, and **REST APIs**, dedicated to building secure, scalable, and high-performance applications.  
 💻 Skilled in designing and developing **end-to-end solutions**, from responsive frontends to robust backends, with a strong focus on code quality and best practices.  
-🤝 Open to **collaborations**, **freelance projects**, and opportunities to work on impactful products with global reach.  
+🤝 Open to **collaborations** and opportunities to work on impactful products with global reach.  
 
 🎓 Currently pursuing **B.Sc. in IT** (expected 2026) and completed an intensive **1-Year Advanced Python Full-Stack Development** program at *IT Vedant*.  
-📍 Working as a **Freelance Developer**, delivering modern web solutions and continuously exploring new technologies to stay ahead in the tech world.
+🌱 Continuously learning, exploring new technologies, and aiming to contribute to innovative projects.
 
 ---
 
