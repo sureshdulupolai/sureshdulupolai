@@ -71,7 +71,6 @@ A complete online store solution with **product management, cart, checkout, and 
 ## 📊 GitHub Stats & Activity
 
 ![](https://github-readme-stats.vercel.app/api?username=sureshdulupolai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=sureshdulupolai&theme=tokyonight&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshdulupolai&theme=tokyonight&hide_border=false&layout=compact)  
 
 📈 **Contribution Graph**  
@@ -80,8 +79,13 @@ A complete online store solution with **product management, cart, checkout, and 
 🏆 **Achievements & Contributions**  
 ![](https://github-contributor-stats.vercel.app/api?username=sureshdulupolai&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
 
-🔥 **Current Streak vs Longest Streak**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=sureshdulupolai&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)  
+🔥 **Streak Overview**  
+[![GitHub Streak](https://streak-stats.demolab.com?user=sureshdulupolai&theme=tokyonight&hide_border=false&card_width=500&currStreakLabel=🔥%20Current%20Streak&longestStreakLabel=🏆%20Longest%20Streak)](https://git.io/streak-stats)  
+
+---
+
+## 🏅 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sureshdulupolai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)
 
 ---
 
