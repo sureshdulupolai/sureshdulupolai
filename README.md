@@ -68,17 +68,28 @@ A complete online store solution with **product management, cart, checkout, and 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
+
 ![](https://github-readme-stats.vercel.app/api?username=sureshdulupolai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sureshdulupolai&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshdulupolai&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshdulupolai&theme=tokyonight&hide_border=false&layout=compact)  
+
+📈 **Contribution Graph**  
+![](https://github-readme-activity-graph.vercel.app/graph?username=sureshdulupolai&theme=tokyo-night)  
+
+🏆 **Achievements & Contributions**  
+![](https://github-contributor-stats.vercel.app/api?username=sureshdulupolai&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
+
+🔥 **Current Streak vs Longest Streak**  
+[![GitHub Streak](https://streak-stats.demolab.com?user=sureshdulupolai&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)  
 
 ---
 
-## 🏆 Achievements & Contributions
-![](https://github-contributor-stats.vercel.app/api?username=sureshdulupolai&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
+## 🧩 Fun Facts
+- ⚡ Love gamifying apps with **spin & win, rewards, and coins**.  
+- 📖 Enjoy reading about **AI-powered automation** & **cloud scaling strategies**.  
+- 🎯 Believe in **writing clean, secure, and maintainable code**.  
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=sureshdulupolai&icon=5&color=6)](https://visitcount.itsvg.in)
-
