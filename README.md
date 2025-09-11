@@ -56,9 +56,10 @@
 ---
 
 ## 🚀 Featured Projects
-🔹 [🎮 GamingZone - Knowledge-Based Quiz Platform](https://github.com/sureshdulupolai/GamingZone)  
+🔹 [🎮 GamingZone - Knowledge-Based Quiz Platform](https://gamingzones.onrender.com/in/)  
 A gamified quiz platform with **APIs, spin & win, coin system, referrals, PayPal integration, ad management, and resume analysis**.  
 Secured with **frontend protection, API billing, and SQLite**.  
+**Live Demo:** [Click here to visit](https://gamingzones.onrender.com/in/)
 
 🔹 **News Website (In Progress)**  
 A content-rich news portal with **ads integration, voting section, client video uploads, donations, and live preview**.  
@@ -92,6 +93,3 @@ A complete online store solution with **product management, cart, checkout, and 
 - 📖 Enjoy reading about **AI-powered automation** & **cloud scaling strategies**.  
 - 🎯 Believe in **writing clean, secure, and maintainable code**.  
 
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=sureshdulupolai&icon=5&color=6)](https://visitcount.itsvg.in)
