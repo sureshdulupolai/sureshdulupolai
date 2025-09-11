@@ -70,22 +70,20 @@ A complete online store solution with **product management, cart, checkout, and 
 
 ## 📊 GitHub Stats & Activity
 
-![](https://github-readme-stats.vercel.app/api?username=sureshdulupolai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshdulupolai&theme=tokyonight&hide_border=false&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sureshdulupolai&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshdulupolai&theme=tokyonight&hide=other&layout=compact)
 
-📈 **Contribution Graph**  
-![](https://github-readme-activity-graph.vercel.app/graph?username=sureshdulupolai&theme=tokyo-night)  
-
-🏆 **Achievements & Contributions**  
-![](https://github-contributor-stats.vercel.app/api?username=sureshdulupolai&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
-
-🔥 **Streak Overview**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=sureshdulupolai&theme=tokyonight&hide_border=false&card_width=500&currStreakLabel=🔥%20Current%20Streak&longestStreakLabel=🏆%20Longest%20Streak)](https://git.io/streak-stats)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sureshdulupolai&theme=tokyo-night&hide_border=true)
 
 ---
 
-## 🏅 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sureshdulupolai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=sureshdulupolai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)
+
+---
+
+## 🔥 Streaks & Achievements
+[![GitHub Streak](https://streak-stats.demolab.com?user=sureshdulupolai&theme=tokyonight&hide_border=false&card_width=500&currStreakLabel=🔥%20Current%20Streak&longestStreakLabel=🏆%20Longest%20Streak)](https://git.io/streak-stats)
 
 ---
 
@@ -96,4 +94,4 @@ A complete online store solution with **product management, cart, checkout, and 
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sureshdulupolai&icon=5&color=6)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=sureshdulupolai&icon=5&color=6)](https://visitcount.itsvg.in)
