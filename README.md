@@ -88,8 +88,6 @@ Full shopping experience with product management, cart, checkout, and payment ga
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sureshdulupolai&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshdulupolai&theme=tokyonight&hide=other&layout=compact)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sureshdulupolai&theme=tokyo-night&hide_border=true)  
 
 ---
