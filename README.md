@@ -99,7 +99,7 @@ Full shopping experience with product management, cart, checkout, and payment ga
 
 ✨ **Quick Stats**  
 ![Profile Views](https://komarev.com/ghpvc/?username=sureshdulupolai&style=for-the-badge&color=blue)  
-![Repos](https://img.shields.io/badge/Public%20Repos-25-brightgreen?style=for-the-badge&logo=github)  
+![Repos](https://img.shields.io/badge/Public%20Repos-25-red?style=for-the-badge&logo=github)  
 ![Commits](https://img.shields.io/badge/Total%20Commits-600+-purple?style=for-the-badge&logo=git)  
 ![Projects](https://img.shields.io/badge/Projects-10+-orange?style=for-the-badge&logo=django)
 
