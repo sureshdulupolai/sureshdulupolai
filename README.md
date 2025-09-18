@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suresh Polai</h1>
-<h3 align="center">🚀 Full-Stack Developer | Python & Django Enthusiast | React Explorer</h3>
+<h3 align="center">🚀 Full-Stack Developer | Python & Django Enthusiast | Angular@19 Explorer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="400"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="80"/>
 </p>
 
 <p align="center">
