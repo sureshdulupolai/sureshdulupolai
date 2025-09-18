@@ -54,7 +54,7 @@
 
 ## 🚀 Featured Projects  
 
-🔹 [🎮 GamingZone - Quiz & Learning Platform](https://gamingzones.onrender.com/)  
+🔹 [![GamingZone](https://img.shields.io/badge/🎮%20GamingZone-Live-green?style=for-the-badge&logo=django)](https://gamingzones.onrender.com/)  
 A gamified quiz platform with **leaderboards, spin & win, coin system, referrals, PayPal integration, resume analysis, and ad management**.  
 **Tech:** Django, DRF, JWT Auth, Celery, SQLite  
 
