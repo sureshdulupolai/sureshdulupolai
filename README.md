@@ -6,7 +6,23 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFB2&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Python+%7C+Django+%7C+React;Always+Learning+%F0%9F%92%AB" />
+  <!-- Row 1: Editor + Frontend -->
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,angular,bootstrap" />
+</p>
+
+<p align="center">
+  <!-- Row 2: Backend -->
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi" />
+</p>
+
+<p align="center">
+  <!-- Row 3: Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+</p>
+
+<p align="center">
+  <!-- Row 4: DevOps + Others -->
+  <img src="https://skillicons.dev/icons?i=aws,devops,git,github,linux" />
 </p>
 
 ---
