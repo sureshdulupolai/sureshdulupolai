@@ -81,8 +81,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/FullStack-Python%20%7C%20Django-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Certified-Python%20Developer-green?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Projects-10%2B-orange?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certified-Master%20Full%20Stack-purple?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-5%2B-orange?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
