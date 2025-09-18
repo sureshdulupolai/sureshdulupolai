@@ -101,10 +101,11 @@ Full shopping experience with product management, cart, checkout, and payment ga
 
 
 ✨ **Quick Stats**  
-![Profile Views](https://komarev.com/ghpvc/?username=sureshdulupolai&style=for-the-badge&color=blue)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sureshdulupolai&show_icons=true&theme=tokyonight&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sureshdulupolai&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshdulupolai&layout=compact&theme=tokyonight)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sureshdulupolai&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sureshdulupolai&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sureshdulupolai&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sureshdulupolai&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sureshdulupolai&theme=tokyonight&utcOffset=5.5)
 
 
 
