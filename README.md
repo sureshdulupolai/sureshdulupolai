@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,python,django,fastapi,mysql,sqlite,bootstrap,git,github,linux,angular" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,python,django,fastapi,mysql,sqlite,bootstrap,git,github,linux,angular,mongodb,aws,devops" />
 </p>
 
 ---
