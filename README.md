@@ -91,8 +91,30 @@ Full shopping experience with product management, cart, checkout, and payment ga
 
 ---
 
-## 🔥 Streaks & Highlights  
-[![GitHub Streak](https://streak-stats.demolab.com?user=sureshdulupolai&theme=tokyonight&hide_border=false&card_width=500&currStreakLabel=🔥%20Current%20Streak&longestStreakLabel=🏆%20Longest%20Streak)](https://git.io/streak-stats)  
+## 🌟 Highlights & Achievements  
+
+✨ **Profile Snapshot**  
+- 🎓 Pursuing **B.Sc. in IT (2023–2026)** – University of Mumbai  
+- 🏆 Certified **Master in Full Stack Development with Python** – IT Vedant  
+- 💻 600+ commits across multiple real-world projects  
+- 🚀 Skilled in **Django | React | REST APIs | SQL | FastAPI | Flask**  
+
+---
+
+✨ **Key Achievements**  
+- 🥇 Built **GamingZone Quiz Platform** → Featured gamification (coins, spin-to-win, PayPal integration, ad management, resume analysis)  
+- 🏢 Developed **Society Management System** → Role-based access, billing automation, visitor management  
+- 💼 Created **Company Management Portal** → Staff communication, branch-level access, and secure CRUD operations  
+- 🛒 Designed **E-commerce Website (In Progress)** → Complete shopping workflow with cart + checkout + payment  
+
+---
+
+✨ **Quick Stats**  
+![Profile Views](https://komarev.com/ghpvc/?username=sureshdulupolai&style=for-the-badge&color=blue)  
+![Repos](https://img.shields.io/badge/Public%20Repos-25+-brightgreen?style=for-the-badge&logo=github)  
+![Commits](https://img.shields.io/badge/Total%20Commits-600+-purple?style=for-the-badge&logo=git)  
+![Projects](https://img.shields.io/badge/Projects-10+-orange?style=for-the-badge&logo=django)  
+
 
 ---
 
