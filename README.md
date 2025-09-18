@@ -5,25 +5,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80"/>
 </p>
 
-<p align="center">
-  <!-- Row 1: Editor + Frontend -->
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,angular,bootstrap" />
-</p>
+---
 
 <p align="center">
-  <!-- Row 2: Backend -->
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,angular,bootstrap,python,django,fastapi,mysql,sqlite,mongodb,aws,devops,git,github,linux" />
 </p>
 
-<p align="center">
-  <!-- Row 3: Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
-</p>
-
-<p align="center">
-  <!-- Row 4: DevOps + Others -->
-  <img src="https://skillicons.dev/icons?i=aws,devops,git,github,linux" />
-</p>
 
 ---
 
