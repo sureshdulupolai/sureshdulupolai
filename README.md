@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1d6x0v2U7jY4w/giphy.gif" alt="coding" width="400"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="coding" width="400"/>
 </p>
 
 
