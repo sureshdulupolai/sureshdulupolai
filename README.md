@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | Python & Django Enthusiast | Angular@19 Explorer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80"/>
 </p>
 
 <p align="center">
@@ -75,15 +75,6 @@
   <img src="https://img.shields.io/badge/FullStack-Python%20%7C%20Django-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Certified-Python%20Developer-green?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Projects-10%2B-orange?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sureshdulupolai&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshdulupolai&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
