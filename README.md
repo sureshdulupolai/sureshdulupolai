@@ -5,11 +5,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80"/>
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/1d6x0v2U7jY4w/giphy.gif" alt="coding" width="400"/>
+</p>
+
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,python,django,flask,fastapi,drf,pytest,unittest,html,css,js,react,angular,bootstrap,mysql,sqlite,mongodb,aws,git,github,linux" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFB2&center=true&vCenter=true&width=600&lines=Full+Stack+Development+with+Python;Always+learning+%F0%9F%92%AB" />
 </p>
+
+
 
 
 
@@ -28,8 +33,9 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,python,django,fastapi,mysql,sqlite,bootstrap,git,github,linux,angular,mongodb,aws,devops" />
+  <img src="https://skillicons.dev/icons?i=vscode,python,django,flask,fastapi,html,css,js,react,angular,bootstrap,mysql,sqlite,mongodb,aws,git,github,linux" />
 </p>
+
 
 ---
 
