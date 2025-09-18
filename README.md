@@ -63,6 +63,7 @@ Manages residents, visitors, billing, events (images/videos), and property resel
 **Tech:** Django, MySQL, Bootstrap  
 
 [![Company Management Portal](https://img.shields.io/badge/💼%20Company%20Management%20Portal-Repo-orange?style=for-the-badge&logo=building)](https://github.com/sureshdulupolai/Office_Project)
+
 Secure staff communication, branch-based access, and CRUD management of company activities.  
 
 🔹 **E-commerce Website (In Progress)**  
