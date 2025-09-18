@@ -1,5 +1,5 @@
 # 💫 About Me  
-🚀 Passionate **Full-Stack Developer** skilled in **Django**, **React**, and **REST APIs**, with strong foundations in both **frontend & backend** development.  
+🚀 Passionate **Full-Stack Developer** skilled in **Python**, **Django**, **REST APIs**, **Flask**, **FastAPI**, **MySQL** and **Angular@19**, with strong foundations in both **frontend & backend** development.  
 💻 Experienced in building **secure, scalable, and impactful applications** with clean architecture and modern tech stacks.  
 🌍 Always eager to collaborate on **global projects** and contribute to innovative ideas.  
 
