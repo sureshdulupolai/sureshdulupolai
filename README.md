@@ -54,20 +54,21 @@
 
 ## 🚀 Featured Projects  
 
-[![GamingZone](https://img.shields.io/badge/🎮%20GamingZone-Live-red?style=for-the-badge&logo=django)](https://gamingzones.onrender.com/)  
+[![GamingZone](https://img.shields.io/badge/🎮%20GamingZone-Live-FF0000?style=for-the-badge&logo=django&logoColor=white)](https://gamingzones.onrender.com/)  
 A gamified quiz platform with **leaderboards, spin & win, coin system, referrals, PayPal integration, resume analysis, and ad management**.  
 **Tech:** Django, DRF, JWT Auth, Celery, SQLite  
 
-[![Society Management System](https://img.shields.io/badge/🏢%20Society%20Management%20System-Repo-blue?style=for-the-badge&logo=homeassistant)](https://github.com/sureshdulupolai/SocietyZ)
-Manages residents, visitors, billing, events (images/videos), and property resell system.  
+---
+
+[![Society Management System](https://img.shields.io/badge/🏢%20Society%20Management%20System-Repo-0052CC?style=for-the-badge&logo=homeassistant&logoColor=white)](https://github.com/sureshdulupolai/SocietyZ)  
+Manages **residents, visitors, billing, events (images/videos), and property resell system**.  
 **Tech:** Django, MySQL, Bootstrap  
 
-[![Company Management Portal](https://img.shields.io/badge/💼%20Company%20Management%20Portal-Repo-orange?style=for-the-badge&logo=building)](https://github.com/sureshdulupolai/Office_Project)
+---
 
-Secure staff communication, branch-based access, and CRUD management of company activities.  
-
-🔹 **E-commerce Website (In Progress)**  
-Full shopping experience with product management, cart, checkout, and payment gateway integration.  
+[![Company Management Portal](https://img.shields.io/badge/💼%20Company%20Management%20Portal-Repo-FF8C00?style=for-the-badge&logo=buildings&logoColor=white)](https://github.com/sureshdulupolai/Office_Project)  
+Secure **staff communication, branch-based access, and CRUD management of company activities**.  
+**Tech:** Django, SQLite, Bootstrap  
 
 ---
 
