@@ -5,10 +5,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80"/>
 </p>
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1581091215360-39b7c6c1a061?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8dGVjaCUyMGNvZGluZ3xlbnwwfHx8fDE2OTU5MTgxNzM&ixlib=rb-4.0.3&q=80&w=400" alt="Professional coding setup" width="400"/>
-</p>
-
 
 
 <p align="center">
