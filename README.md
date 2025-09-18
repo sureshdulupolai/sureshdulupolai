@@ -78,6 +78,14 @@ Full shopping experience with product management, cart, checkout, and payment ga
 
 ---
 
+✨ **Key Achievements**  
+- 🥇 Built **GamingZone Quiz Platform** → Featured gamification (coins, spin-to-win, PayPal integration, ad management, resume analysis)  
+- 🏢 Developed **Society Management System** → Role-based access, billing automation, visitor management  
+- 💼 Created **Company Management Portal** → Staff communication, branch-level access, and secure CRUD operations  
+- 🛒 Designed **E-commerce Website (In Progress)** → Complete shopping workflow with cart + checkout + payment   
+
+---
+
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sureshdulupolai&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)  
@@ -91,23 +99,6 @@ Full shopping experience with product management, cart, checkout, and payment ga
 
 ---
 
-## 🌟 Highlights & Achievements  
-
-✨ **Profile Snapshot**  
-- 🎓 Pursuing **B.Sc. in IT (2023–2026)** – University of Mumbai  
-- 🏆 Certified **Master in Full Stack Development with Python** – IT Vedant  
-- 💻 600+ commits across multiple real-world projects  
-- 🚀 Skilled in **Django | React | REST APIs | SQL | FastAPI | Flask**  
-
----
-
-✨ **Key Achievements**  
-- 🥇 Built **GamingZone Quiz Platform** → Featured gamification (coins, spin-to-win, PayPal integration, ad management, resume analysis)  
-- 🏢 Developed **Society Management System** → Role-based access, billing automation, visitor management  
-- 💼 Created **Company Management Portal** → Staff communication, branch-level access, and secure CRUD operations  
-- 🛒 Designed **E-commerce Website (In Progress)** → Complete shopping workflow with cart + checkout + payment  
-
----
 
 ✨ **Quick Stats**  
 ![Profile Views](https://komarev.com/ghpvc/?username=sureshdulupolai&style=for-the-badge&color=blue)  
