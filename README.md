@@ -8,8 +8,18 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,angular,bootstrap,python,django,fastapi,mysql,sqlite,mongodb,aws,devops,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi&theme=dark" />
+  <img src="https://img.shields.io/badge/DRF-Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=gray" />
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unittest-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,devops,git,github,linux,vscode" />
 </p>
+
 
 
 ---
