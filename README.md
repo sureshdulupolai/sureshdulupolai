@@ -54,15 +54,15 @@
 
 ## 🚀 Featured Projects  
 
-🔹 [![GamingZone](https://img.shields.io/badge/🎮%20GamingZone-Live-green?style=for-the-badge&logo=django)](https://gamingzones.onrender.com/)  
+[![GamingZone](https://img.shields.io/badge/🎮%20GamingZone-Live-red?style=for-the-badge&logo=django)](https://gamingzones.onrender.com/)  
 A gamified quiz platform with **leaderboards, spin & win, coin system, referrals, PayPal integration, resume analysis, and ad management**.  
 **Tech:** Django, DRF, JWT Auth, Celery, SQLite  
 
-🔹 [🏢 Society Management System](https://github.com/sureshdulupolai/SocietyZ)  
+[![Society Management System](https://img.shields.io/badge/🏢%20Society%20Management%20System-Repo-blue?style=for-the-badge&logo=homeassistant)](https://github.com/sureshdulupolai/SocietyZ)
 Manages residents, visitors, billing, events (images/videos), and property resell system.  
 **Tech:** Django, MySQL, Bootstrap  
 
-🔹 [💼 Company Management Portal](https://github.com/sureshdulupolai/Office_Project)  
+[![Company Management Portal](https://img.shields.io/badge/💼%20Company%20Management%20Portal-Repo-orange?style=for-the-badge&logo=building)](https://github.com/sureshdulupolai/Office_Project)
 Secure staff communication, branch-based access, and CRUD management of company activities.  
 
 🔹 **E-commerce Website (In Progress)**  
