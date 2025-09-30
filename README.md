@@ -103,6 +103,12 @@ A gamified quiz platform with **leaderboards, spin & win, coin system, referrals
 
 ---
 
+[![SakinakaDiwaliTour](https://img.shields.io/badge/🎉%20SakinakaDiwaliTour-Live-FF9500?style=for-the-badge&logo=django&logoColor=white)](https://sakinaka-diwalitour.onrender.com/)  
+A **PWA-enabled Diwali trip booking platform** with **seat management, user profiles, travel history, blogs, role-based access, and uptime monitoring**.  
+**Tech:** Django, Python, PostgreSQL, PWA, Render  
+
+---
+
 [![Society Management System](https://img.shields.io/badge/🏢%20Society%20Management%20System-Repo-0052CC?style=for-the-badge&logo=homeassistant&logoColor=white)](https://github.com/sureshdulupolai/SocietyZ)  
 Manages **residents, visitors, billing, events (images/videos), and property resell system**.  
 **Tech:** Django, MySQL, Bootstrap  
