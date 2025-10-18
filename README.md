@@ -131,7 +131,7 @@ A complete online store with **product management, cart, checkout, and payment g
 
 ## 🎯 2025 Goals  
 
-- Master **Advanced Django**  
+- Master **Full Stack Web Development in Python**  
 - Deploy projects with **Full API Security**  
 - Build a **Production-ready E-commerce Platform**  
 - Contribute to **Open Source Projects**  
