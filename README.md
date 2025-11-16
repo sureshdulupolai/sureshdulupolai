@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suresh Polai</h1>
-<h3 align="center">🚀 Full-Stack Developer | Python & Django Enthusiast | Angular@19 Explorer</h3>
+<h3 align="center">🚀 Full-Stack Developer | Python & Django Enthusiast | Data Analytics Explorer</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80"/>
